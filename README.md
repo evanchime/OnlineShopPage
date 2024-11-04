@@ -20,13 +20,12 @@ To install the Online Shop Page project locally, follow these steps:
     ```bash
     cd OnlineShopPage
     ```
-3. Open `OnlineShopPage.html` in your preferred web browser.
+3. Open `onlineShopPage.html` in your preferred web browser.
 
 ## Usage
-After installing the project, open `OnlineShopPage.html` in your web browser to view the online shop page. You can navigate through the products, view details, and simulate the shopping experience.
+After installing the project, open `onlineShopPage.html` in your web browser to view the online shop page. You can navigate through the products, view details, and simulate the shopping experience.
 
-![Screenshot of Online Shop Page](screenshots/screenshot1.png)
-![Screenshot of Product Details](screenshots/screenshot2.png)
+![Screenshot of Online Shop Page](onlineShopPageScreenshot.png)
 
 ## Contributing
 

@@ -6,6 +6,8 @@ The Online Shop Page project is a simple, user-friendly web page designed to sho
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 - [Credits](#credits)
 
 ## Installation
